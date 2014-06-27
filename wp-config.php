@@ -14,16 +14,16 @@
  */
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
-/** WordPress数据库的名称 */
+/** 填写京东云擎云数据库的名称 */
 define('DB_NAME', 'database_name_here');
 
-/** MySQL数据库用户名 */
+/** 填写京东云擎云数据库MySQL数据库用户名 */
 define('DB_USER', 'username_here');
 
-/** MySQL数据库密码 */
+/** 填写京东云擎云数据库MySQL数据库密码 */
 define('DB_PASSWORD', 'password_here');
 
-/** MySQL主机 */
+/** 填写京东云擎云数据库连接地址：例如：10.0.16.16:4066   尾部要注意:为英文输入法 和端口号 */
 define('DB_HOST', 'localhost');
 
 /** 创建数据表时默认的文字编码 */
